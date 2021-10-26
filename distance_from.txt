@@ -1,0 +1,5 @@
+atom id /A:124@N idatm_type Npl
+atom id /A:124@CA idatm_type C3
+atom id /A:124@C idatm_type C2
+atom id /A:124@O idatm_type O2
+atom id /A:124@CB idatm_type C3
